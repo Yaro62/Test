@@ -11,3 +11,8 @@ npm install
 npm test
 ```
 
+## Run all tests in Parallel
+```bash
+npm test --parallel
+```
+
